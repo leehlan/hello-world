@@ -1,7 +1,3 @@
-  public function Main()
-  code
-    call Msgbox("Hello", "My first program", "OK")
-    call Msgbox("Hello World!", "My first program", "OK")
-  end function
+Hello World!!!
 
-  end class
+Hello everyone , hello human.
